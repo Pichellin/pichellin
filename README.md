@@ -23,6 +23,6 @@
   <a href = "mailto:celio_pichellin@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>  
 
 
-  ![Snake animation](https://github.com/pichellin/pichellin/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pichellin/github-contribution-grid-snake.svg)
   
 </div>
