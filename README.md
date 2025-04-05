@@ -1,4 +1,9 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## ☕ Olá! sou picheLLiN, criador de conteúdo de programação e tecnologia 💻
+
+- 🔭 Atualmente trabalho com TI, Desenvolvedor: Fluxograma e JavaScript ...
+- 🎒 Bacharelado em Sistema da Informação ...
+- 🌱 Programador ...
+
 <div align="center">
   <a href="https://github.com/pichellin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pichellin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,7 +30,10 @@
   <a href = "mailto:pichellin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:celio_pichellin@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pichellin-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+   
+  ![Snake animation](https://github.com/Pichellin/pichellin/blob/output/github-contribution-grid-snake.svg)
+ 
+ <!--
   --------------------------------------------------------------------------------------------------------
   <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -197,8 +205,6 @@
   />
 
 </p>
-  --------------------------------------------------------------------------------------------------------
- 
-  ![Snake animation](https://github.com/pichellin/pichellin/blob/output/github-contribution-grid-snake.svg)
- 
+--------------------------------------------------------------------------------------------------------
 </div>
+-->
