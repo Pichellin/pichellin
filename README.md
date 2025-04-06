@@ -39,7 +39,7 @@
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000"
-
+        />
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
