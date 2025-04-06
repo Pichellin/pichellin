@@ -38,7 +38,7 @@
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%282828&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000"
         />
     </a>
     <a href="https://www.youtube.com/@pichellin">
