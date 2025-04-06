@@ -1,11 +1,12 @@
+<div align="center">
 ## ☕ Olá! sou picheLLiN, criador de conteúdo de programação e tecnologia💻
 
 - 🔭 Atualmente trabalho com TI, Analista de Suporte: Preventiva e corretiva com o usuário final ...
 - 🎒 Bacharelado em Sistema da Informação ...
 - 🌱 Programador ...
-
-### 📊 Estatísticas
+</div>
 <div align="center">
+### 📊 Estatísticas
     <p>
         <img 
             align="center" 
@@ -23,7 +24,7 @@
     </p>
 </div>
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
