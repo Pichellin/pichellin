@@ -5,16 +5,13 @@
 - 🌱 Programador ...
 
 <div align="center">
-<img 
-    align="left" 
+<img
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Pichellin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   ---------------------------
-  <a href="https://github.com/pichellin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pichellin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichellin&layout=compact&langs_count=7&theme=dracula"/>
