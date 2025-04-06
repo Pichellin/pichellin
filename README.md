@@ -34,32 +34,32 @@
   ![Snake animation](https://github.com/Pichellin/pichellin/blob/output/github-contribution-grid-snake.svg)
  
   <p align="left">
-    <a href="http://www.youtube.com/@pichellin?sub_confirmation=1">
+    <a href="http://www.youtube.com/@pichellin?sub_confirmation=1" target="_blank">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000"
+            title="YInscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000" target="_blank"
         />
     </a>
-    <a href="https://www.youtube.com/@pichellin">
+    <a href="https://www.youtube.com/@pichellin" target="_blank">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF0000"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF0000" target="_blank"
         />
     </a>
-    <a href="https://github.com/Pichellin?tab=followers">
+    <a href="https://github.com/Pichellin?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=bbbbbb&labelColor=096BDE&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=bbbbbb&labelColor=096BDE&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" target="_blank"
         />
     </a>
-    <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=bbbbbb&style=for-the-badge&labelColor=096BDE&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=bbbbbb&style=for-the-badge&labelColor=096BDE&logo=star&label=estrelas" target="_blank"
         />
     </a>
 </p>
