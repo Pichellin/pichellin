@@ -22,11 +22,8 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pichellin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
         />
     </p>
-</div>
-------------------------------
-### 🤖 Linguagens e Tecnologias
-<div align="center">
-    <img 
+    ### 🤖 Linguagens e Tecnologias
+        <img 
         align="left" 
         alt="HTML"
         title="HTML" 
