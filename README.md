@@ -4,9 +4,9 @@
 - 🔭 Atualmente trabalho com TI, Analista de Suporte: Preventiva e corretiva com o usuário final ...
 - 🎒 Bacharelado em Sistema da Informação ...
 - 🌱 Programador ...
-
-<div align="center">
+------------------------------
 ### 📊 Estatísticas
+<div align="center">
     <p>
         <img 
             align="center" 
