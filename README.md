@@ -161,8 +161,8 @@
     <a href="http://www.youtube.com/@pichellin?sub_confirmation=1" target="_blank">
         <img 
             alt="youtube subscribers" 
-            title="YInscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000&logoColor=white"
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000"
         />
     </a>
     <a href="https://www.youtube.com/@pichellin" target="_blank">
