@@ -140,7 +140,7 @@
     />
     -->
 </div>
-
+<!--
 ### 🤖 Encontro nos redes sociais...
 <div>
 <!--
@@ -151,7 +151,6 @@
   <a href = "mailto:pichellin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:celio_pichellin@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pichellin-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
--->
 </div>
 <div>
   <p align="left">
@@ -190,9 +189,10 @@
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-</p>
 
 ![Snake animation](https://github.com/Pichellin/Pichellin/blob/output/github-contribution-grid-snake.svg)
+
 ### 🐍 Snake eating my contributions
 ![Snake animation](https://github.com/Pichellin/Pichellin/raw/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/Pichellin/Pichellin/raw/output/github-contribution-grid-snake.svg)
+-->
