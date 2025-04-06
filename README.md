@@ -1,7 +1,7 @@
 # ☕ Olá! sou, picheLLiN.
 
-- 🔭 Atualmente trabalho com TI, Analista de Suporte: Preventiva e corretiva com o usuário final ...
-- 🎒 Bacharelado em Sistema da Informação ...
+- 🔭 Atualmente trabalho com, Analista de Suporte TI: Infraestrutura, preventiva e corretiva ...
+- 🎒 Cursando, Bacharelado em Sistema da Informação ...
 - 💻 Criador de conteúdo em tecnologia ...
 - 🌱 Programador ...
 
@@ -25,6 +25,9 @@
 </div>
 <br>
 <br>
+
+### 📊 Rede Sociais
+<div>
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
@@ -55,7 +58,7 @@
         />
     </a>
 </p>
-
+</div>
 ---
 
 ### 🤖 Linguagens e Tecnologias
