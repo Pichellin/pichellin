@@ -23,6 +23,7 @@
         />
     </p>
 </div>
+
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
     <img 
@@ -140,6 +141,7 @@
     />
     -->
 </div>
+
 ### 🤖 Encontro nos redes sociais...
 <div>
 <!--
