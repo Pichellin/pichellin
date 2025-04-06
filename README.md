@@ -195,9 +195,11 @@
 
 
 
-![Snake animation](https://github.com/Pichellin/pichellin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pichellin/Pichellin/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🐍 Snake eating my contributions
+![Snake animation](https://github.com/Pichellin/Pichellin/raw/output/github-contribution-grid-snake.svg)
+
 ![snake gif](https://github.com/Pichellin/Pichellin/raw/output/github-contribution-grid-snake.svg)
 
