@@ -4,8 +4,8 @@
 - 🎒 Bacharelado em Sistema da Informação ...
 - 💻 Criador de conteúdo em tecnologia ...
 - 🌱 Programador ...
-------------------------------
-### 📊 Estatísticas
+
+## 📊 Estatísticas
 
 ### 📊 Estatísticas
 <div>
@@ -27,7 +27,7 @@
 
 </p>
 </div>
-
+------------------------------
 # 👩🏻‍💻 Larissa Kich
 
 **`Desenvolvedora FullStack`**
