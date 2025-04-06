@@ -23,8 +23,6 @@
     />
   </p>
 </div>
-<br>
-<br>
 
 ### 📊 Rede Sociais
 <div>
