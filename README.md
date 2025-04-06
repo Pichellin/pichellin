@@ -169,7 +169,7 @@
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF0000&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?&logoColor=white&logo=eye&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href="https://github.com/Pichellin?tab=followers" target="_blank">
