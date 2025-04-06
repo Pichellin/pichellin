@@ -145,11 +145,6 @@
 
 
 
-
-
-
-
- 
 <div> 
   <a href="http://www.youtube.com/@pichellin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pichellin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -157,11 +152,11 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pichellin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:celio_pichellin@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+
   <a href="https://www.linkedin.com/in/pichellin-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
+</div>
 
-
-
+<div>
   <p align="left">
     <a href="http://www.youtube.com/@pichellin?sub_confirmation=1" target="_blank">
         <img 
@@ -189,6 +184,13 @@
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=bbbbbb&style=for-the-badge&labelColor=096BDE&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/pichellin-45875016a" target="_blank">
+        <img
+            alt="LinkedIn"
+            title="Meu Curriculum oficial"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
