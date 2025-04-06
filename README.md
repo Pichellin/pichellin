@@ -52,14 +52,14 @@
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=236ad3&labelColor=bbbbbb&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=bbbbbb&labelColor=096BDE&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=bbbbbb&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=bbbbbb&style=for-the-badge&labelColor=096BDE&logo=star&label=estrelas"
         />
     </a>
 </p>
