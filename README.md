@@ -162,14 +162,14 @@
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=FF0000&logoColor=white"
         />
     </a>
     <a href="https://www.youtube.com/@pichellin" target="_blank">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?&logoColor=white&logo=eye&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23bbbbbb&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF0000&logoColor=white"
         />
     </a>
     <a href="https://github.com/Pichellin?tab=followers" target="_blank">
