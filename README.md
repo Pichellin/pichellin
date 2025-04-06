@@ -8,7 +8,7 @@
 ### 📊 Estatísticas
 
 ### 📊 Estatísticas
-
+<div>
 <p>
   <img 
     align="left" 
@@ -26,7 +26,7 @@
   />
 
 </p>
-
+</div>
 
 # 👩🏻‍💻 Larissa Kich
 
