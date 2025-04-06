@@ -25,6 +25,7 @@
 </div>
 ------------------------------
 ### 🤖 Linguagens e Tecnologias
+<div align="center">
 <img 
     align="left" 
     alt="HTML"
