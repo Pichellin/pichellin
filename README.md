@@ -45,7 +45,7 @@
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF0000"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=FF0000"
         />
     </a>
     <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers">
