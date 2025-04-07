@@ -71,6 +71,13 @@
 ### 🌐 Redes Sociais
 
 <div align="center">
+  <a href="https://github.com/Pichellin?tab=followers" target="_blank">
+    <img 
+      alt="Seguidores GitHub" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
   <a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank">
     <img 
       alt="YouTube Subscribers" 
@@ -90,13 +97,6 @@
       alt="Estrelas GitHub" 
       title="Total de estrelas no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/Pichellin?tab=followers" target="_blank">
-    <img 
-      alt="Seguidores GitHub" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
 </div>
