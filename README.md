@@ -71,47 +71,48 @@
 ### 🌐 Redes Sociais
 
 <div align="center">
-<a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
-    alt="YouTube" 
-    title="Inscreva-se no meu canal" 
-    width="40" 
-    height="40"
-  />
-</a>
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Pichellin?tab=followers" target="_blank" title="Me siga no GitHub">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="GitHub"
+      width="40" height="40"
+      style="margin: 0 10px;"
+    />
+  </a>
 
-  
-  <a href="https://github.com/Pichellin?tab=followers" target="_blank">
+  <!-- GitHub Stars -->
+  <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers" target="_blank" title="Estrelas no GitHub">
     <img 
-      alt="Seguidores GitHub" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers" target="_blank">
-    <img 
-      alt="Estrelas GitHub" 
-      title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      src="https://img.icons8.com/ios-filled/50/000000/star--v1.png"
+      alt="Estrelas"
+      width="40" height="40"
+      style="margin: 0 10px;"
     />
   </a>
-  </a>
-  <a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank">
+
+  <!-- YouTube Subscribe -->
+  <a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank" title="Inscreva-se no meu canal">
     <img 
-      alt="YouTube Subscribers" 
-      title="Inscreva-se no meu canal"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+      alt="YouTube"
+      width="40" height="40"
+      style="margin: 0 10px;"
     />
   </a>
-  <a href="https://www.youtube.com/@Pichellin" target="_blank">
+
+  <!-- YouTube Views -->
+  <a href="https://www.youtube.com/@Pichellin" target="_blank" title="Visualizações no YouTube">
     <img 
-      alt="YouTube Views" 
-      title="Visualizações no YouTube" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+      src="https://img.icons8.com/ios-filled/50/000000/visible.png"
+      alt="Views"
+      width="40" height="40"
+      style="margin: 0 10px;"
     />
   </a>
 </div>
 <br clear="left"/>
+
 
 💬 **Dica:** Se curtir algum projeto ou conteúdo, não esqueça de deixar uma estrela ⭐, se inscrever no canal e compartilhar!
 
