@@ -24,6 +24,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pichellin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+<br clear="left"/>
 
 ---
 
@@ -36,6 +37,7 @@
   <img title="GitHub Codespaces" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
   <img title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
+<br clear="left"/>
 
 ---
 
@@ -44,6 +46,7 @@
 <div align="center">
   <img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
+<br clear="left"/>
 
 ---
 
@@ -53,6 +56,7 @@
   <img title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
+<br clear="left"/>
 
 ---
 
@@ -65,7 +69,7 @@
 ---
 ### 🌐 Redes Sociais
 
-<<div align="center">
+<div align="center">
   <a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank">
     <img 
       alt="YouTube Subscribers" 
@@ -95,5 +99,8 @@
     />
   </a>
 </div>
+<br clear="left"/>
+
 💬 **Dica:** Se curtir algum projeto ou conteúdo, não esqueça de deixar uma estrela ⭐, se inscrever no canal e compartilhar!
+
 
