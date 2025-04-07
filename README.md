@@ -95,8 +95,5 @@
     />
   </a>
 </div>
-
----
-
 💬 **Dica:** Se curtir algum projeto ou conteúdo, não esqueça de deixar uma estrela ⭐, se inscrever no canal e compartilhar!
 
