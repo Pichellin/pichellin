@@ -70,14 +70,13 @@
 ---
 ### 🌐 Redes Sociais
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
   <!-- GitHub Followers -->
   <a href="https://github.com/Pichellin?tab=followers" target="_blank" title="Me siga no GitHub">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
       alt="GitHub"
       width="40" height="40"
-      style="margin: 0 10px;"
     />
   </a>
 
@@ -87,7 +86,6 @@
       src="https://img.icons8.com/ios-filled/50/000000/star--v1.png"
       alt="Estrelas"
       width="40" height="40"
-      style="margin: 0 10px;"
     />
   </a>
 
@@ -97,7 +95,6 @@
       src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
       alt="YouTube"
       width="40" height="40"
-      style="margin: 0 10px;"
     />
   </a>
 
@@ -107,7 +104,6 @@
       src="https://img.icons8.com/ios-filled/50/000000/visible.png"
       alt="Views"
       width="40" height="40"
-      style="margin: 0 10px;"
     />
   </a>
 </div>
