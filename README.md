@@ -23,7 +23,7 @@
     />
   </p>
 </div>
-
+<br clear="left"/>
 ### 📊 Rede Sociais
 <div>
 <p align="left">
@@ -57,9 +57,10 @@
     </a>
 </p>
 </div>
-
+<br clear="left"/>
 ### 🤖 Linguagens e Tecnologias
 <div align="center">
+  style="padding-right: 10px;"
   <!-- Algoritmo -->
   <img 
     align="left" 
