@@ -63,6 +63,14 @@
 <div>
 <img 
     align="left" 
+    alt="Algoritmo" 
+    title="Algoritmo"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/331639/flowchart.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
