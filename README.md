@@ -134,3 +134,77 @@
     />
 </div>
 <br clear="left"/>
+---
+<!-- Estudando agora -->
+<h3>📘 Estudando agora</h3>
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+      alt="JavaScript"
+      title="JavaScript"
+      width="40px"
+      style="filter: grayscale(100%); transition: 0.3s;"
+      onmouseover="this.style.filter='none'" 
+      onmouseout="this.style.filter='grayscale(100%)'"
+    />
+    <div style="font-size: 12px; margin-top: 5px;">JavaScript</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+      alt="HTML5"
+      title="HTML5"
+      width="40px"
+      style="filter: grayscale(100%); transition: 0.3s;"
+      onmouseover="this.style.filter='none'" 
+      onmouseout="this.style.filter='grayscale(100%)'"
+    />
+    <div style="font-size: 12px; margin-top: 5px;">HTML5</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+      alt="CSS3"
+      title="CSS3"
+      width="40px"
+      style="filter: grayscale(100%); transition: 0.3s;"
+      onmouseover="this.style.filter='none'" 
+      onmouseout="this.style.filter='grayscale(100%)'"
+    />
+    <div style="font-size: 12px; margin-top: 5px;">CSS3</div>
+  </div>
+</div>
+
+<!-- Próximas metas -->
+<h3>🎯 Próximas metas</h3>
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+      alt="React"
+      title="React"
+      width="40px"
+      style="filter: grayscale(100%); transition: 0.3s;"
+      onmouseover="this.style.filter='none'" 
+      onmouseout="this.style.filter='grayscale(100%)'"
+    />
+    <div style="font-size: 12px; margin-top: 5px;">React</div>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+      alt="Node.js"
+      title="Node.js"
+      width="40px"
+      style="filter: grayscale(100%); transition: 0.3s;"
+      onmouseover="this.style.filter='none'" 
+      onmouseout="this.style.filter='grayscale(100%)'"
+    />
+    <div style="font-size: 12px; margin-top: 5px;">Node.js</div>
+  </div>
+</div>
+
