@@ -87,14 +87,24 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
     />
+  <!-- GitHub com Vscode -->
   <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="GitHub com Vscode" 
+    title="GitHub com Vscode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
     />
+  <!-- VSCODE -->
+  <img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    />       
   <!-- JavaScript -->
   <img 
     align="left" 
