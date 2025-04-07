@@ -104,7 +104,11 @@
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    />       
+    />
+</div>
+<br clear="left"/>
+<div>
+  ## 📘 Estudando agora
   <!-- JavaScript -->
   <img 
     align="left" 
@@ -114,6 +118,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     />
+</div>
+<br clear="left"/>
+<div>
+## 🎯 Próximas metas
   <!-- HTML5 -->
   <img 
     align="left" 
@@ -134,33 +142,4 @@
     />
 </div>
 <br clear="left"/>
----
-<!-- Estudando agora -->
-<h3 align="center">📘 Estudando agora</h3>
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" style="filter: grayscale(100%); transition: 0.3s;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'"/><br/>
-        <sub>JavaScript</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" style="filter: grayscale(100%); transition: 0.3s;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'"/><br/>
-        <sub>HTML5</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" style="filter: grayscale(100%); transition: 0.3s;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'"/><br/>
-        <sub>CSS3</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" style="filter: grayscale(100%); transition: 0.3s;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'"/><br/>
-        <sub>Git</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40px" style="filter: grayscale(100%); transition: 0.3s;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)'"/><br/>
-        <sub>GitHub</sub>
-      </td>
-    </tr>
-  </table>
-</p>
-<br clear="left"/>
+
