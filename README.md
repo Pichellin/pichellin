@@ -27,41 +27,6 @@
 
 ---
 
-### 🌐 Redes Sociais
-
-<div align="left">
-  <a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank">
-    <img 
-      alt="YouTube Subscribers" 
-      title="Inscreva-se no meu canal" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-    />
-  </a>
-  <a href="https://www.youtube.com/@Pichellin" target="_blank">
-    <img 
-      alt="YouTube Views" 
-      title="Visualizações no YouTube" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-    />
-  </a> 
-  <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers" target="_blank">
-    <img 
-      alt="Estrelas GitHub" 
-      title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/Pichellin?tab=followers" target="_blank">
-    <img 
-      alt="Seguidores GitHub" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</div>
-
----
-
 ### 🤖 Linguagens e Ferramentas
 
 <div align="center">
@@ -98,6 +63,38 @@
 - [📂 Organização de rede e segurança básica](https://github.com/Pichellin/nome-do-repo)
 
 ---
+### 🌐 Redes Sociais
 
+<div align="left">
+  <a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank">
+    <img 
+      alt="YouTube Subscribers" 
+      title="Inscreva-se no meu canal" 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    />
+  </a>
+  <a href="https://www.youtube.com/@Pichellin" target="_blank">
+    <img 
+      alt="YouTube Views" 
+      title="Visualizações no YouTube" 
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+    />
+  </a> 
+  <a href="https://github.com/Pichellin?tab=repositories&sort=stargazers" target="_blank">
+    <img 
+      alt="Estrelas GitHub" 
+      title="Total de estrelas no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Pichellin?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/Pichellin?tab=followers" target="_blank">
+    <img 
+      alt="Seguidores GitHub" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Pichellin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</div>
+---
 💬 **Dica:** Se curtir algum projeto ou conteúdo, não esqueça de deixar uma estrela ⭐, se inscrever no canal e compartilhar!
 
