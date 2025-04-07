@@ -59,8 +59,7 @@
 </div>
 <br clear="left"/>
 ### 🤖 Linguagens e Tecnologias
-<div align="center">
-  style="padding-right: 10px;"
+<div align="center" style="padding-right: 10px;">
   <!-- Algoritmo -->
   <img 
     align="left" 
