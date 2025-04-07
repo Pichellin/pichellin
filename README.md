@@ -92,7 +92,11 @@
       src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
     />
   </a>
-    💬 **Dica:** Se curtir algum projeto ou conteúdo, não esqueça de deixar uma estrela ⭐, se inscrever no canal e compartilhar!
+  <a>
+    <p>
+      💬 **Dica:** Se curtir algum projeto ou conteúdo, não esqueça de deixar uma estrela ⭐, se inscrever no canal e compartilhar!
+    </p>
+  </a>
 </div>
 <br clear="left"/>
 
