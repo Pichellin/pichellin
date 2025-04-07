@@ -76,7 +76,7 @@
 
 ### 📘 Estudando Agora
 
-<div>
+<div align="center">
   <img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
@@ -84,7 +84,7 @@
 
 ### 🎯 Próximas Metas
 
-<div>
+<div align="center">
   <img title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
