@@ -101,9 +101,11 @@
 
 ### 🚀 Projetos em Destaque
 <div>
-- [🛠️ Script de backup automático para Outlook](https://github.com/Pichellin/backup-outlook)
-- [💡 Tutorial de comandos essenciais no Windows](https://github.com/Pichellin/windows-comandos)
-- [📂 Organização de rede e segurança básica](https://github.com/Pichellin/rede-organizacao-seguranca)
+  
+  - [🛠️ Script de backup automático para Outlook](https://github.com/Pichellin/backup-outlook)
+  - [💡 Tutorial de comandos essenciais no Windows](https://github.com/Pichellin/windows-comandos)
+  - [📂 Organização de rede e segurança básica](https://github.com/Pichellin/rede-organizacao-seguranca)
+
 </div>
 <br clear="left"/>
 
