@@ -59,6 +59,7 @@
 </p>
 </div>
 <br clear="left"/>
+
 ### 🤖 Linguagens e Tecnologias
 <div align="center" style="padding-right: 10px;">
   <!-- Algoritmo -->
