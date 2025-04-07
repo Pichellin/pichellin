@@ -36,6 +36,7 @@
   <img title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img title="GitHub Codespaces" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
   <img title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img title="powerShell" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 </div>
 <br clear="left"/>
 
@@ -62,9 +63,9 @@
 
 ### 🚀 Projetos em Destaque
 
-- [🛠️ Script de backup automático para Outlook](https://github.com/Pichellin/nome-do-repo)
+- [🛠️ Script de backup automático para Outlook](https://github.com/Pichellin/backup-outlook)
 - [💡 Tutorial de comandos essenciais no Windows](https://github.com/Pichellin/windows-comandos)
-- [📂 Organização de rede e segurança básica](https://github.com/Pichellin/nome-do-repo)
+- [📂 Organização de rede e segurança básica](https://github.com/Pichellin/rede-organizacao-seguranca)
 
 ---
 ### 🌐 Redes Sociais
