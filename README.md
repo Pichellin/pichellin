@@ -63,7 +63,7 @@
 ### 🚀 Projetos em Destaque
 
 - [🛠️ Script de backup automático para Outlook](https://github.com/Pichellin/nome-do-repo)
-- [💡 Tutorial de comandos essenciais no Windows](https://github.com/Pichellin/nome-do-repo)
+- [💡 Tutorial de comandos essenciais no Windows](https://github.com/Pichellin/windows-comandos)
 - [📂 Organização de rede e segurança básica](https://github.com/Pichellin/nome-do-repo)
 
 ---
