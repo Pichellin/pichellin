@@ -24,6 +24,7 @@
   </p>
 </div>
 <br clear="left"/>
+
 ### 📊 Rede Sociais
 <div>
 <p align="left">
@@ -58,6 +59,7 @@
 </p>
 </div>
 <br clear="left"/>
+
 ### 🤖 Linguagens e Tecnologias
 <div align="center" style="padding-right: 10px;">
   <!-- Algoritmo -->
@@ -107,6 +109,7 @@
     />
 </div>
 <br clear="left"/>
+
 ### 📘 Estudando agora
 <div>
   <!-- JavaScript -->
@@ -120,6 +123,7 @@
     />
 </div>
 <br clear="left"/>
+
 ### 🎯 Próximas metas
 <div>
   <!-- HTML5 -->
