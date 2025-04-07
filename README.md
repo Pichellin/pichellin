@@ -65,7 +65,7 @@
 ---
 ### 🌐 Redes Sociais
 
-<div align="left">
+<<div align="center">
   <a href="https://www.youtube.com/@Pichellin?sub_confirmation=1" target="_blank">
     <img 
       alt="YouTube Subscribers" 
