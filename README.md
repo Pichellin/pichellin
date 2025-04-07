@@ -75,6 +75,11 @@
 ### 🌐 Redes Sociais
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/pichellin" target="_blank">
+    title="Contato LinkedIn" 
+    alt="Contato LinkedIn"
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   <a href="https://github.com/Pichellin?tab=followers" target="_blank">
     <img 
       title="Me siga no GitHub" 
@@ -103,6 +108,25 @@
       src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClJpuDt5uyDrsmyGXE3Gf5w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
     />
   </a>
+<!--
+  <a href="https://www.youtube.com/channel/UClJpuDt5uyDrsmyGXE3Gf5w" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/pichellin" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ 	<a href="https://www.twitch.tv/pichellin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.gg/pichellin" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:pichellin@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+<--
+  
   <a>
     <p>
       💬 **Dica:** Se curtir algum projeto ou conteúdo, não esqueça de deixar uma estrela ⭐, se inscrever no canal e compartilhar!
