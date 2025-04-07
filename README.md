@@ -107,7 +107,7 @@
     />
 </div>
 <br clear="left"/>
-## 📘 Estudando agora
+### 📘 Estudando agora
 <div>
   <!-- JavaScript -->
   <img 
@@ -120,7 +120,7 @@
     />
 </div>
 <br clear="left"/>
-## 🎯 Próximas metas
+### 🎯 Próximas metas
 <div>
   <!-- HTML5 -->
   <img 
